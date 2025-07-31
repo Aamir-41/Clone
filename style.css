@@ -115,3 +115,19 @@ section li a:hover{
     text-decoration: underline;
 }
 
+footer{
+    background-color: rosybrown;
+    text-align: center;
+    padding: 20px;
+    font-size: 1rem;
+}
+
+footer a{
+    text-decoration: none;
+    color: black;
+}
+
+footer a:hover{
+    color: blue;
+    text-decoration: underline;
+}
