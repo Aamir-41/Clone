@@ -34,7 +34,7 @@ div img{
     mix-blend-mode: multiply;
 }
 
-.top_buttons{text-align: right;}
+.top_buttons{text-align: center;}
 
 .top_buttons li {
     text-decoration: none;
