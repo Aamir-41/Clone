@@ -4,11 +4,6 @@
     box-sizing: border-box;
 }
 
-/* .container{
-    max-width: 1600;
-    background-color: rgb(255, 253, 255);
-} */
-
 body{
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.6;
@@ -50,13 +45,14 @@ div img{
 }
 .top_buttons li a {
     color: white;
-    padding: 6px 18px;
+    padding: 5px 15px;
     background-color: #038d4a;
-    border-radius: 5px 5px 5px 5px;
+    border-radius: 5px;
     font-size:16px;
     display: inline-block;
     list-style: none;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .top_buttons li a:hover{
@@ -68,8 +64,6 @@ div img{
     height: 250px;
     display: block;
     margin: 0 auto;
-    /* border-radius: 5px; */
-    /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) */
     mix-blend-mode: multiply;
 }
 
